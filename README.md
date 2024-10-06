@@ -1,4 +1,4 @@
-![snake gif](https://github.com/SEU_USUARIO/snake-game-contribution/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/gitmarimartins/snake-game-contribution/blob/output/github-contribution-grid-snake.gif)
 
 <!--
 **gitmarimartins/gitmarimartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
