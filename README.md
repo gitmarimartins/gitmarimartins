@@ -1,1 +1,2 @@
-![Snake animation](https://github.com/gitmarimartins/gitmarimartins/blob/gh-pages/github-contribution-grid-snake.svg)
+![Snake animation](https://gitmarimartins.github.io/gitmarimartins/github-contribution-grid-snake.svg)
+
