@@ -12,13 +12,26 @@
 
 #
 
-<img align="right" alt="" src="./src/studyy.gif" width="250px" height="auto">
+<img align="right" alt="" height="190px" src="./src/studyy.gif">
 
 <h3 align="left">Fale Comigo: </h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=envelope&logoColor=FF00F6&color=000)](mailto:marinalvesmartins@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color=000)](https://www.instagram.com/imarina.martins/)
 
+<h3 align="left">My Stack: </h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="c logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
+  <img width="8" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
+  <img width="8" />
+  
+ 
+
+#
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gitmarimartins/gitmarimartins/output/github-contribution-grid-snake-dark.svg">
