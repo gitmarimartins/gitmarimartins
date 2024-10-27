@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<img align="center" alt="" src="./src/header-gif.gif">
+<img align="center" alt="" src="./src/header-gif.gif" width="100%" height="auto">
 
 #
 
@@ -12,19 +12,16 @@
 
 #
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
+<img align="right" alt="" src="./src/studyy.gif" width="250px" height="auto">
+
 <h3 align="left">Fale Comigo: </h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=envelope&logoColor=FF00F6&color=000)](mailto:marinalvesmartins@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color=000)](https://www.instagram.com/imarina.martins/)
 
 
-
-<h3 align="left">My Stack ~</h3>
-
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gitmarimartins/gitmarimartins/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gitmarimartins/gitmarimartins/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gitmarimartins/gitmarimartins/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gitmarimartins/gitmarimartins/output/github-contribution-grid-snake.svg" width="100%" height="auto">
 </picture>
